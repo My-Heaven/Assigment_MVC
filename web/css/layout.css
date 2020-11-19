@@ -1,0 +1,41 @@
+h1{
+    color: blue;
+    font-family: serif;	
+
+}
+body{
+    text-align: center;
+    padding-bottom: 300px;
+    padding-top: 100px;
+}
+table{
+    padding: 0;
+    border: none;
+    border-collapse: unset;
+    border: 1px solid while;
+    width: 550px;
+    margin: 50px auto 10px;
+}
+table input{
+    border: 1px solid cyan;
+    background: cyan;
+}
+table thead th{
+    background: pink;
+}
+table td{
+    background: cyan;
+}
+a:hover{
+    color: red;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+input:hover{
+    color: pink;
+}
+
+
