@@ -13,4 +13,4 @@
 1. https://facebook.com/t.dat.112k
 2. [Email](mailto:tandat112k@gmail.com)
 
-#### © 2020 by TanDat
+#### © 2020 by TanDat.
